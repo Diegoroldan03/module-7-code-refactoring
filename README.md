@@ -31,3 +31,7 @@ Processed Strings: apple BANANA kiwi GRAPEFRUIT CHERRY
 - undocumented_script.py — Refactored and documented version.
 - CODE_REVIEW.md — Initial observations and final review.
 - DECISIONS.md — Explanation of the refactoring decisions.
+
+## Video Walkthrough
+
+Watch my code walkthrough here: https://youtu.be/Rj4nzfxQ6Dg
